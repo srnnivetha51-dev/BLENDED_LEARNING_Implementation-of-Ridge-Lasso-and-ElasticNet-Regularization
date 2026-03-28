@@ -95,9 +95,9 @@ RegisterNumber:  212225240102
 ![simple linear regression model for predicting the marks scored](sam.png)
 ![alt text](<Screenshot 2026-02-24 200751.png>)
 ![alt text](<Screenshot 2026-02-24 200759.png>)
-![alt text](<Screenshot 2026-02-24 200810.png>)
-![alt text](<Screenshot 2026-02-24 200821.png>)
-![alt text](<Screenshot 2026-02-24 200835.png>)
+<img width="786" height="713" alt="5 e" src="https://github.com/user-attachments/assets/53096ebf-d8b1-4f91-8c97-da0c947a98d6" />
+<img width="560" height="599" alt="6 e" src="https://github.com/user-attachments/assets/fdb44d00-990d-4df8-b86a-3a561a526293" />
+
 
 ## Result:
 Thus, Ridge, Lasso, and ElasticNet regularization models were implemented successfully to predict the car price and the model's performance was evaluated using R² score and Mean Squared Error.
