@@ -23,13 +23,8 @@ To implement Ridge, Lasso, and ElasticNet regularization models using polynomial
 ## Program:
 ```
 /*
-Program to implement Ridge, Lasso, and ElasticNet regularization using pipelines.
+Program to implement Ridge, Lasso, and ElasticNet regularization using pipelines
 
-/*
-Program to implement Ridge, Lasso, and ElasticNet regularization using pipelines.
-Developed by: POPURI SAHITHYA
-RegisterNumber:  212225240106
-*/
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
